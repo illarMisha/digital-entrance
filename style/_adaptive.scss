@@ -1,0 +1,111 @@
+@media (max-width:1024px){
+    .header{
+        font-size: 44px;
+        margin-top: 60px;
+    }
+    .main{
+        margin-top: 150px;
+        .form{
+            .form__input{
+                font-size: 20px;
+                margin-top: 50px;
+            }
+            .form__lebel{
+                font-size: 28px;
+                margin-top: 10px
+            }
+            .main__forget{
+                margin-top:40px;
+                .nav-forget{
+                    font-size: 28px;
+                }
+            }
+            .form__btn{
+                margin-top: 100px;
+                margin-bottom: 60px;
+                .input__btn{
+                    font-size: 38px;
+                }
+            }
+        }
+    }
+}
+@media (max-width:768px){
+    .header{
+        font-size: 40px;
+        margin-top: 50px;
+    }
+    .main{
+        margin-top: 100px;
+        .form{
+            .form__input{
+                margin-top: 40px;
+            }
+            .form__btn{
+                margin-top: 50px;
+                margin-bottom: 50px;
+            }
+        }
+    }
+}
+
+@media (max-width:600px){
+    .header{
+        font-size: 36px;
+    }
+    .main{
+        .form{
+            .form__input{
+                margin-top: 30px;
+                font-size: 18px;
+            }
+            .form__lebel{
+                font-size: 26px;
+            }
+            .main__forget{
+                margin-top:40px;
+                .nav-forget{
+                    font-size: 26px;
+                }
+            }
+            .form__btn{
+                margin-top: 100px;
+                margin-bottom: 60px;
+                .input__btn{
+                    font-size: 32px;
+                }
+            }
+        }
+    }
+}
+@media (max-width:480px){
+    .header{
+        font-size: 32px;
+    }
+    .main{
+        .form{
+            .form__input{
+                font-size: 16px;
+            }
+            .form__lebel{
+                font-size: 20px;
+            }
+            .main__forget{
+                margin-top:20px;
+                .nav-forget{
+                    font-size: 20px;
+                }
+            }
+            .form__btn{
+                margin-top: 100px;
+                margin-bottom: 60px;
+                .input__btn{
+                    font-size: 24px;
+                }
+            }
+        }
+    }
+}
+@media(max-width:400px){
+   
+}
